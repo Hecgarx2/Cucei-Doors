@@ -48,6 +48,10 @@ body {
     padding: auto;
 }
 
+.separar {
+    margin-bottom: 5rem;
+}
+
 .formatoTabla {
     width: 100%;
     border-collapse: collapse;
@@ -61,4 +65,13 @@ th, td {
 
 th {
     background-color: #595C64;
+}
+
+footer {
+    background-color: #595C64;
+    padding: 5%;
+}
+
+.footer__Texto {
+    font-size: medium;
 }

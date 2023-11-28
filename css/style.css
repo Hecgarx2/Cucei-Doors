@@ -1,0 +1,35 @@
+html {
+    font-family: 'Montserrat', sans-serif;
+}
+
+body {
+    margin: 0;
+    background-color: #2D74A7;
+}
+
+.header {
+    background-color: #595C64;
+    height: 30%;
+}
+
+.title {
+    margin-top: 2rem;
+    margin-left: 10%;
+}
+
+.logo {
+    margin-left: 70rem;
+    margin-right: 5rem;
+}
+
+.inline {
+    display: inline;
+}
+
+.left {
+    float: left;
+}
+
+.right {
+    float: right;
+}

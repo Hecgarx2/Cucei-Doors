@@ -9,17 +9,19 @@ body {
 
 .header {
     background-color: #595C64;
+    color: white;
     height: 30%;
+    width: 100%;
 }
 
 .title {
-    margin-top: 2rem;
+    margin-top: 2%;
     margin-left: 10%;
 }
 
 .logo {
-    margin-left: 70rem;
-    margin-right: 5rem;
+    margin-left: 50%;
+    margin-right: 10%;
 }
 
 .inline {
@@ -32,4 +34,31 @@ body {
 
 .right {
     float: right;
+}
+
+.contenedor {
+    margin: 0 auto;
+    text-align: left;
+    width: 90%;
+}
+
+.tabla-container {
+    width: 100%;
+    margin: 0 auto;
+    padding: auto;
+}
+
+.formatoTabla {
+    width: 100%;
+    border-collapse: collapse;
+    border-radius: 20%;
+}
+
+th, td {
+    border: solid 1px black;
+    text-align: center;
+}
+
+th {
+    background-color: #595C64;
 }
